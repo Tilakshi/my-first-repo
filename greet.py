@@ -1,3 +1,4 @@
+# This library is imported to get current date and time
 import datetime
 
 def greet(name):
